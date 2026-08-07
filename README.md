@@ -23,103 +23,11 @@ Manoel Fernandes Neto · Senior Software Engineer · Goiás, Brazil
 [![Followers](https://img.shields.io/github/followers/ManoelFer?style=for-the-badge&logo=github&logoColor=00E58A&label=followers&labelColor=0D1117&color=00E58A)](https://github.com/ManoelFer?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=ManoelFer&style=for-the-badge&color=00E58A&label=VISITORS)](https://github.com/ManoelFer)
 
-</div>
-
-<details>
-<summary><b>&nbsp;🇧🇷&nbsp; Ler em português</b> &nbsp;<sub>abre aqui mesmo, sem sair da página</sub></summary>
-
 <br>
 
-## `~$ whoami`
+[![Ler em português](https://img.shields.io/badge/ler%20em-portugu%C3%AAs-00E58A?style=for-the-badge&logo=googletranslate&logoColor=0D1117&labelColor=0D1117&color=00E58A)](./README.pt-BR.md)
 
-```console
-manoel@github:~$ whoami --verbose
-
-  nome        Manoel Fernandes Neto
-  cargo       Engenheiro de Software Sênior
-  experiência 6+ anos, profissionalmente, em produção
-  local       Goiás, Brasil (UTC-3) · remoto
-  foco        TypeScript de ponta a ponta: APIs REST, web, mobile e desktop
-  estúdio     Hello World, helloworldestudio.com.br
-  idiomas     pt-BR (nativo) · en (intermediário: leio e escrevo todo dia,
-              e converso em ritmo calmo)
-
-manoel@github:~$ cat ./filosofia.md
-
-  Aprendi a construir software antes da IA chegar no editor, e hoje entrego
-  com ela todos os dias. É uma ferramenta que multiplica um engenheiro
-  sênior, não uma fonte da verdade. Continuo lendo o diff, sendo dono da
-  arquitetura e assinando o código.
-
-manoel@github:~$ _
-```
-
-## `~$ cat stack.ts`
-
-```ts
-const manoel = {
-  linguagens: ["TypeScript", "JavaScript", "Solidity", "Java"],
-
-  frontend:   ["React", "Next.js", "Redux Toolkit", "Vite", "TailwindCSS",
-               "styled-components"],
-
-  mobile:     ["React Native (CLI e Expo)"],
-
-  desktop:    ["Electron"],
-
-  backend:    ["Node.js", "AdonisJS", "NestJS", "Express",
-               "APIs REST", "GraphQL", "Serverless"],
-
-  dados:      ["PostgreSQL", "MySQL", "MongoDB", "Lucid ORM", "Prisma"],
-
-  web3:       ["Ethereum", "Smart Contracts", "Truffle", "Web3.js",
-               "OpenZeppelin", "swap de cripto e carteiras compartilhadas"],
-
-  devops:     ["Docker", "AWS", "GitHub Actions", "CI/CD"],
-
-  práticas:   ["Clean Architecture", "SOLID", "TDD", "Code Review",
-               "Design Systems"],
-
-  ia:         "uso diário na entrega, sempre revisado, nunca aceito às cegas",
-} as const;
-
-export default manoel;
-```
-
-## `~$ ls -la ./destaques`
-
-| Projeto | O que é | Stack |
-| :--- | :--- | :--- |
-| [**react-native-cli-swap-crypto**](https://github.com/ManoelFer/react-native-cli-swap-crypto) | App mobile para fazer swap de criptomoedas, feito no React Native CLI | React Native · TypeScript · styled-components · Lottie |
-| [**Carteira Compartilhada**](https://github.com/ManoelFer/Carteira_Compartilhada_Truffle) | dApp de carteira compartilhada, com contratos em Solidity e [front em React](https://github.com/ManoelFer/CarteiraCompartilhada_Front-End-Web) | Solidity · OpenZeppelin · Truffle · React |
-| [**next-with-postgresql-boilerplate**](https://github.com/ManoelFer/next-with-postgresql-boilerplate) | CRUD em Next 15 com SQL puro, validação Zod e hooks do Husky | Next.js 15 · PostgreSQL · Zod · Tailwind |
-| [**nestjs_auth_crud_boilerplate**](https://github.com/ManoelFer/nestjs_auth_crud_boilerplate) | Starter NestJS pronto pra forkar, com autenticação e CRUD | NestJS · TypeScript |
-| [**boilerplate_adonisjs_auth_crud**](https://github.com/ManoelFer/boilerplate_adonisjs_auth_crud) | Starter AdonisJS v5 com auth, models Lucid e suíte de testes Japa | AdonisJS 5 · Lucid · MySQL · Japa |
-| [**skills_manager_api**](https://github.com/ManoelFer/skills_manager_api) | API REST para gerenciar desenvolvedores e suas skills | AdonisJS 5 · Lucid · MySQL · Argon2 |
-| [**react_reusable_components**](https://github.com/ManoelFer/react_reusable_components) | Biblioteca de componentes que reaproveito em projetos React e Next.js | React · Next.js · TypeScript |
-| [**hello-world-site**](https://github.com/ManoelFer/hello-world-site) | Landing page do meu estúdio, arquivo único e sem build | React (sem bundler) · PT/EN |
-
-```console
-manoel@github:~$ ls ./destaques | wc -l
-8
-manoel@github:~$ echo "…e mais de 40 repositórios públicos → github.com/ManoelFer?tab=repositories"
-```
-
-## `~$ ./contato.sh`
-
-```console
-manoel@github:~$ ./contato.sh --disponível-para "vagas remotas · freelance · consultoria"
-
-  [✓] estúdio   https://helloworldestudio.com.br
-  [✓] github    https://github.com/ManoelFer
-  [✓] conversa  pt-BR fluente · inglês em ritmo calmo
-
-manoel@github:~$ # abra uma issue, deixe uma estrela ou mande um oi, eu respondo.
-```
-
-<sub>Os gráficos e a cobrinha logo abaixo são os mesmos nos dois idiomas.</sub>
-
-</details>
+</div>
 
 ---
 
