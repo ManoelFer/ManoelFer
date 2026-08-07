@@ -134,6 +134,20 @@ manoel@github:~$ echo "…e mais de 40 repositórios públicos → github.com/Ma
 
 ---
 
+## `~$ snake --eat ./contribuicoes`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManoelFer/ManoelFer/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManoelFer/ManoelFer/output/snake-light.svg" />
+  <img alt="a cobrinha comendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/ManoelFer/ManoelFer/output/snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## `~$ ./contato.sh`
 
 ```console

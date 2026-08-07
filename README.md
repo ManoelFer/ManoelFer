@@ -134,6 +134,20 @@ manoel@github:~$ echo "…and 40+ more public repos → github.com/ManoelFer?tab
 
 ---
 
+## `~$ snake --eat ./contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManoelFer/ManoelFer/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManoelFer/ManoelFer/output/snake-light.svg" />
+  <img alt="the snake eating my contribution graph" src="https://raw.githubusercontent.com/ManoelFer/ManoelFer/output/snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## `~$ ./contact.sh`
 
 ```console
