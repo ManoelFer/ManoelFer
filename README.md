@@ -11,7 +11,11 @@ Manoel Fernandes Neto · Senior Software Engineer · Goiás, Brazil
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=00E58A&center=true&vCenter=true&width=780&height=55&lines=Senior+Software+Engineer+%C2%B7+6%2B+years+shipping+products;TypeScript+from+the+API+to+the+pixel;Web+%C2%B7+Mobile+%C2%B7+Desktop+%C2%B7+Web3;AI+is+a+power+tool+%E2%80%94+never+the+source+of+truth" alt="Senior Software Engineer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=00E58A&center=true&vCenter=true&width=780&height=55&lines=Senior+Software+Engineer+%C2%B7+6%2B+years+shipping+products;TypeScript+from+the+API+to+the+pixel;Web+%C2%B7+Mobile+%C2%B7+Desktop+%C2%B7+Web3;AI+is+a+power+tool+%E2%80%94+never+the+source+of+truth" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=0B8F5A&center=true&vCenter=true&width=780&height=55&lines=Senior+Software+Engineer+%C2%B7+6%2B+years+shipping+products;TypeScript+from+the+API+to+the+pixel;Web+%C2%B7+Mobile+%C2%B7+Desktop+%C2%B7+Web3;AI+is+a+power+tool+%E2%80%94+never+the+source+of+truth" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=00E58A&center=true&vCenter=true&width=780&height=55&lines=Senior+Software+Engineer+%C2%B7+6%2B+years+shipping+products;TypeScript+from+the+API+to+the+pixel;Web+%C2%B7+Mobile+%C2%B7+Desktop+%C2%B7+Web3;AI+is+a+power+tool+%E2%80%94+never+the+source+of+truth" alt="Senior Software Engineer" />
+</picture>
 
 <br>
 
@@ -120,15 +124,39 @@ manoel@github:~$ echo "…and 40+ more public repos → github.com/ManoelFer?tab
 
 <div align="center">
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManoelFer&theme=github_dark" alt="profile summary" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManoelFer&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManoelFer&theme=github" />
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManoelFer&theme=github_dark" alt="profile summary" />
+</picture>
 
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManoelFer&theme=github_dark" alt="repos per language" />
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManoelFer&theme=github_dark" alt="most used language" />
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManoelFer&theme=github_dark" alt="stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManoelFer&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManoelFer&theme=github" />
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManoelFer&theme=github_dark" alt="repos per language" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManoelFer&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManoelFer&theme=github" />
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManoelFer&theme=github_dark" alt="most used language" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManoelFer&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManoelFer&theme=github" />
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManoelFer&theme=github_dark" alt="stats" />
+</picture>
 
-<img width="47%" src="https://streak-stats.demolab.com?user=ManoelFer&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=00E58A&fire=00E58A&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=00E58A&sideLabels=8B949E&dates=6E7681" alt="commit streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ManoelFer&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=00E58A&fire=00E58A&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=00E58A&sideLabels=8B949E&dates=6E7681" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ManoelFer&hide_border=true&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=0B8F5A&fire=0B8F5A&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=0B8F5A&sideLabels=57606A&dates=6E7781" />
+  <img width="47%" src="https://streak-stats.demolab.com?user=ManoelFer&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=00E58A&fire=00E58A&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=00E58A&sideLabels=8B949E&dates=6E7681" alt="commit streak" />
+</picture>
 
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManoelFer&bg_color=0D1117&color=E6EDF3&line=00E58A&point=E6EDF3&area=true&area_color=00E58A&hide_border=true&radius=8" alt="contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ManoelFer&bg_color=0D1117&color=E6EDF3&line=00E58A&point=E6EDF3&area=true&area_color=00E58A&hide_border=true&radius=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ManoelFer&bg_color=FFFFFF&color=1F2328&line=0B8F5A&point=1F2328&area=true&area_color=0B8F5A&hide_border=true&radius=8" />
+  <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManoelFer&bg_color=0D1117&color=E6EDF3&line=00E58A&point=E6EDF3&area=true&area_color=00E58A&hide_border=true&radius=8" alt="contribution graph" />
+</picture>
 
 </div>
 
